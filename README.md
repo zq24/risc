@@ -10,6 +10,8 @@ Random Stuff:
 8.
 9.
 10.
+first change
+Second change
 added from the master branch, and wanted to merge back to the test_branch
 # Usage
 
